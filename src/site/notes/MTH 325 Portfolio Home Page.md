@@ -2,4 +2,12 @@
 {"dg-publish":true,"permalink":"/mth-325-portfolio-home-page/","tags":["gardenEntry"]}
 ---
 
-This is the home page.
+# Table of Contents:
+
+## Concept Definitions
+### Graphs
+[[Concept Definitions/Graphs/Simple Graph\|Simple Graph]]
+
+## Algorithms
+
+## Proofs
