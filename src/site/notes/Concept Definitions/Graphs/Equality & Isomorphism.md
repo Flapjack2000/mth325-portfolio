@@ -11,24 +11,24 @@ The following graphs look very different, but are, in fact, the same graph.
 
 <div style="display:flex">
 	<figure style="width:50%; text-align:center">
-	  <img src="/Images/equal-graph.png" >
+	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/equal-graph.png?raw=true" >
 	  <figcaption><i>G<sub>1</sub></i></figcaption>
 	</figure>
 
 	<figure style="width:50%; text-align:center">
-	  <img src="/Images/equal-graph(1).png" >
+	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/equal-graph(1).png?raw=true" >
 	  <figcaption><i>G<sub>2</sub></i></figcaption>
 	</figure>
 </div>
 
 <div style="display:flex">
 	<figure style="width:50%; text-align:center">
-	  <img src="/Images/equal-graph(2).png" >
+	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/equal-graph(2).png?raw=true" >
 	  <figcaption><i>G<sub>3</sub></i></figcaption>
 	</figure>
 
 	<figure style="width:50%; text-align:center">
-	  <img src="/Images/equal-graph(3).png" >
+	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images//equal-graph(3).png?raw=true" >
 	  <figcaption><i>G<sub>4</sub></i></figcaption>
 	</figure>
 </div>
@@ -46,7 +46,7 @@ The two graphs shown below, $G_5$ and $G_6$, are isomorphic, though $G_5$ $\ne$ 
 	</figure>
 
 	<figure style="width:50%; text-align:center">
-	  <img src="/Images/isomorphic-graph(1).png" >
+	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/isomorphic-graph(1).png?raw=true" >
 	  <figcaption><i>G<sub>6</sub></i></figcaption>
 	</figure>
 </div>
