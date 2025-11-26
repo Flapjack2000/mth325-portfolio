@@ -11,24 +11,24 @@ The following graphs look very different, but are, in fact, the same graph.
 
 <div style="display:flex">
 	<figure style="width:50%; text-align:center">
-	  <img src="equal-graph.png" >
+	  <img src="/Images/equal-graph.png" >
 	  <figcaption><i>G<sub>1</sub></i></figcaption>
 	</figure>
 
 	<figure style="width:50%; text-align:center">
-	  <img src="equal-graph(1).png" >
+	  <img src="/Images/equal-graph(1).png" >
 	  <figcaption><i>G<sub>2</sub></i></figcaption>
 	</figure>
 </div>
 
 <div style="display:flex">
 	<figure style="width:50%; text-align:center">
-	  <img src="equal-graph(2).png" >
+	  <img src="/Images/equal-graph(2).png" >
 	  <figcaption><i>G<sub>3</sub></i></figcaption>
 	</figure>
 
 	<figure style="width:50%; text-align:center">
-	  <img src="equal-graph(3).png" >
+	  <img src="/Images/equal-graph(3).png" >
 	  <figcaption><i>G<sub>4</sub></i></figcaption>
 	</figure>
 </div>
@@ -41,12 +41,12 @@ The two graphs shown below, $G_5$ and $G_6$, are isomorphic, though $G_5$ $\ne$ 
 
 <div style="display:flex">
 	<figure style="width:50%; text-align:center">
-	  <img src="isomorphic-graph.png" >
+	  <img src="/Images/isomorphic-graph.png" >
 	  <figcaption><i>G<sub>5</sub></i></figcaption>
 	</figure>
 
 	<figure style="width:50%; text-align:center">
-	  <img src="isomorphic-graph(1).png" >
+	  <img src="/Images/isomorphic-graph(1).png" >
 	  <figcaption><i>G<sub>6</sub></i></figcaption>
 	</figure>
 </div>
@@ -59,4 +59,4 @@ $$D \rightarrow B$$
 $$E \rightarrow A$$
 would give us $G_6$. In fact, this is a bijective function $f : V_5 \rightarrow V_6$. 
 
-Also, $f$ preserves edges. This means, given two graphs, $G_1 = (V_1, E_1)$ and $G_2 = (V_2, E_2)$, $\{u, v\}$ is an edge of $G_1$ exactly when $\{f(u), f(v)\}$ is an edge of $G_2$.
+Also, $f$ preserves edges. This means, given two graphs, $G_1 = (V_1, E_1)$ and $G_2 = (V_2, E_2)$, $\{u, v\}$ is an edge of $G_1$ exactly when $\{f(u), f(v)\}$ is an edge of $G_2$. Basically, if you simply relabel the vertices, the edges remain "in place".
