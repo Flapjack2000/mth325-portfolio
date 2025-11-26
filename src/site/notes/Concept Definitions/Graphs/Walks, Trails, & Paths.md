@@ -13,6 +13,6 @@ For any graph $G$, a *walk* of length $n$ is a sequence $[v_0, e_1, v_1, e_2, ..
 * An open walk in which no edge is repeated (but vertices might be) is called a *trail*.
 #### Trails
 
-
+A trail is an open walk in which no edge is repeated.
 
 #### Paths
