@@ -6,7 +6,7 @@
 
 ## Concept Definitions
 * Graphs
-	* [[Concept Definitions/Graphs/Simple Graph\|Simple Graph]]
+	* [[Concept Definitions/Graphs/Simple Graphs\|Simple Graphs]]
 	* [[Concept Definitions/Graphs/Equality & Isomorphism\|Equality & Isomorphism]]
 	* [[Concept Definitions/Graphs/Walks, Trails, & Paths\|Walks, Trails, & Paths]]
 ## Algorithms

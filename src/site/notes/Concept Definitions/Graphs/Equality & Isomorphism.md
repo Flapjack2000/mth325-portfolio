@@ -7,7 +7,7 @@ If two graphs are *equal*, $G_1 = (V_1, E_1)$ and $G_2 = (V_2, E_2)$, then $V_1 
 
 Sometimes it can be hard to tell if two graphs are equal simply by looking at their representations because the same graph can be represented in multiple ways.
 
-The following graphs look very different, but are, in fact, the same graph.
+The following graphs, $G_1$, $G_2$, $G_3$, and $G_4$, look very different, but are, in fact, the same graph. Their vertex sets and edge sets are the same.
 
 <div style="display:flex">
 	<figure style="width:50%; text-align:center">
