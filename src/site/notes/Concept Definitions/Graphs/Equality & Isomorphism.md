@@ -41,7 +41,7 @@ The two graphs shown below, $G_5$ and $G_6$, are isomorphic, though $G_5$ $\ne$ 
 
 <div style="display:flex">
 	<figure style="width:50%; text-align:center">
-	  <img src="/Images/isomorphic-graph.png" >
+	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/equal-graph.png?raw=true" >
 	  <figcaption><i>G<sub>5</sub></i></figcaption>
 	</figure>
 
