@@ -10,5 +10,6 @@
 	* [[Concept Definitions/Graphs/Equality & Isomorphism\|Equality & Isomorphism]]
 	* [[Concept Definitions/Graphs/Walks, Trails, & Paths\|Walks, Trails, & Paths]]
 ## Algorithms
+* [[Concept Definitions/Algorithms/Hakimi-Havel\|Hakimi-Havel]]
 
 ## Proofs

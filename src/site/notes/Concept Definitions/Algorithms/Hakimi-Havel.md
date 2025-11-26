@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/concept-definitions/algorithms/hakimi-havel/"}
 ---
 
-
 The Hakimi-Havel algorithm checks if there exists a simple graph that corresponds to a given degree sequence.
 
 The approach goes as follows:
@@ -14,9 +13,10 @@ The approach goes as follows:
 	2. There are not enough remaining elements to subtract from in step 2.
 	3. One or more of the remaining elements is less than $0$.
 
-
-
+#### Python: Hakimi-Havel Algorithm
 ```Python
 while True:
+
+
 
 ```
