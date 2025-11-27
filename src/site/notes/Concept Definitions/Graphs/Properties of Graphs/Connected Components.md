@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/concept-definitions/graphs/properties-of-graphs/connected-components/"}
 ---
 
-
 A connected component is a maximal group of vertices in a graph where there is a path between any two vertices in the group.
 
 The graph $G$, shown below, has two connected components.
