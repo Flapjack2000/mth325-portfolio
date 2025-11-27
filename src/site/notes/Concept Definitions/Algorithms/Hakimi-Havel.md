@@ -38,3 +38,38 @@ def hakimi_havel(degree_sequence):
 			if degree_sequence[i] < 0:
 				return False
 ```
+
+#### TypeScript: Hakimi-Havel Algorithm
+```ts
+function hakimiHavel(degreeSequence:number[]):boolean{
+	
+	while true{
+		// Sort elements in non-increasing order.
+		degreeSequence.sort();
+		degreeSequence.reverse();
+		
+		// Check stopping condition 1.
+		if (degreeSequence.every(num => (num === 0))){
+			return true;
+		}
+		
+		// Remove and store first element.
+		const d: number = degreeSequence.shift();
+		
+		// Check stopping condition 2.
+		if (d > degreeSequence.length){
+			return false;
+		}
+		
+		// Decrement first d elements.
+		for (i=0; i<d; i++){
+			degreeSequence[i]--;
+			
+			// Check stopping condition 3.
+			if (degreeSequence[i] < 0){
+				return false;
+			}
+		}
+	}
+}
+```
