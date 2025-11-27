@@ -17,7 +17,7 @@ When vertices $v$ and $w$ are the endpoints of an edge $e$, we say that:
 
 The simple graph $G$, shown below, consists of
 * a vertex set $V = \{v_1, v_2, v_3, v_4, v_5, v_6, v_7, v_8,\}$
-* an edge set $E = \{(v_1, v_3), (v_1, v_5), (v_2, v_5), (v_3, v_4), (v_3, v_5), (v_6, v_7), (v_6, v_8)\}$
+* an edge set $E = \{\{v_1, v_3\}, \{v_1, v_5\}, \{v_2, v_5\}, \{v_3, v_4\}, \{v_3, v_5\}, \{v_6, v_7\}, \{v_6, v_8\}\}$
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/disconnected-graph.png?raw=true" >
