@@ -29,3 +29,7 @@ The degree sequence of $G_1$, $Seq(G_1) = [4, 3, 2, 2, 1]$.
 	  <figcaption><i>G<sub>1</sub></i></figcaption>
 	</figure>
 </div>
+
+<hr>
+
+To determine if there exists a simple graph that corresponds to a given degree sequence, one can use the [[Algorithms/Hakimi-Havel\|Hakimi-Havel]] algorithm
