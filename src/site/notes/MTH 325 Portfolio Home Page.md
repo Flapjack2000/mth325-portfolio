@@ -11,7 +11,7 @@
 		* [[Concept Definitions/Graphs/Properties of Graphs/Equality & Isomorphism\|Equality & Isomorphism]]
 		* [[Concept Definitions/Graphs/Properties of Graphs/Walks, Trails, & Paths\|Walks, Trails, & Paths]]
 		* [[Concept Definitions/Graphs/Properties of Graphs/Degrees & Degree Sequences\|Degrees & Degree Sequences]]
-		* [[Concept Definitions/Graphs/Properties of Graphs/Connected Components\|Connected Components]]
+		* [[Concept Definitions/Graphs/Properties of Graphs/Subgraphs & Connectivity\|Subgraphs & Connectivity]]
 	* Trees
 	* Directed Graphs
 ## Algorithms
