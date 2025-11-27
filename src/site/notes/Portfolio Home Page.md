@@ -13,17 +13,13 @@
 # Table of Contents
 
 ## Concept Definitions
-* Graphs
-	* Properties of Graphs
-		* [[Concept Definitions/Graphs/Properties of Graphs/Vertices, Edges, & Simple Graphs\|Vertices, Edges, & Simple Graphs]]
-		* [[Concept Definitions/Graphs/Properties of Graphs/Equality & Isomorphism\|Equality & Isomorphism]]
-		* [[Concept Definitions/Graphs/Properties of Graphs/Walks, Trails, & Paths\|Walks, Trails, & Paths]]
-		* [[Concept Definitions/Graphs/Properties of Graphs/Degrees & Degree Sequences\|Degrees & Degree Sequences]]
-		* [[Concept Definitions/Graphs/Properties of Graphs/Subgraphs & Connectivity\|Subgraphs & Connectivity]]
-		* [[Concept Definitions/Graphs/Properties of Graphs/Weighted Graphs\|Weighted Graphs]]
-	* Trees
-		* [[Concept Definitions/Graphs/Trees/Minimum Spanning Tree\|Minimum Spanning Tree]]
-	* Directed Graphs
+* [[Concept Definitions/Graphs/Vertices, Edges, & Simple Graphs\|Vertices, Edges, & Simple Graphs]]
+* [[Concept Definitions/Graphs/Equality & Isomorphism\|Equality & Isomorphism]]
+* [[Concept Definitions/Graphs/Walks, Trails, & Paths\|Walks, Trails, & Paths]]
+* [[Concept Definitions/Graphs/Degrees & Degree Sequences\|Degrees & Degree Sequences]]
+* [[Concept Definitions/Graphs/Subgraphs & Connectivity\|Subgraphs & Connectivity]]
+* [[Concept Definitions/Graphs/Weighted Graphs\|Weighted Graphs]]
+* [[Concept Definitions/Graphs/Minimum Spanning Tree\|Minimum Spanning Tree]]
 ## Algorithms
 * [[Algorithms/Hakimi-Havel\|Hakimi-Havel]]
 * [[Algorithms/Depth First Search\|Depth First Search]]
