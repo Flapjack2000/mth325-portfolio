@@ -19,8 +19,9 @@ Below is a directed graph, $$D = (V_D = \{A, B, C, D\}, E_D = \{(A, B), (A, C), 
 	</figure>
 </div>
 
-Note that the edges in the edge set of a directed graph are notated as ordered pairs, rather than sets. The edge begins at the first element in the ordered pair, and ends at the second.
+Note that the edges in the edge set of a directed graph are notated as ordered pairs of vertices, rather than sets. The edge begins at the first element in the ordered pair (the tail of the edge), and ends at the second (the head of the edge).
 
 Also, note that while $G$ contains a cycle, $D$ does not. 
 
 #### In-degree & Out-degree
+Given a directed graph, for any vertex, the in-degree
