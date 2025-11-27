@@ -12,20 +12,29 @@ The approach goes as follows:
 	2. There are not enough remaining elements to subtract from in step $2$. (No simple graph exists.)
 	3. One or more of the remaining elements is less than $0$. (No simple graph exists.)
 #### Python: Hakimi-Havel Algorithm
-```Python
-
+```python
 def hakimi_havel(degree_sequence):
 	
 	while True:
 		# Sort elements in non-increasing order.
 		degree_sequence.sort(reverse=True)
 		
-		# Check if every element is 0.
+		# Check stopping condition 1.
 		if all([d == 0 for d in degree_sequence]):
 			return True
 		
+		# Remove and store first element.
+		d = degree_sequence.pop(0)
 		
+		# Check stopping condition 2.
+		if d > len(degree_sequence):
+			return False
 		
-
-
+		# Decrement first d elements.
+		for i in range(d):
+			degree_sequence[i] -= 1
+			
+			# Check stopping condition 3.
+			if degree_sequence[i] < 0:
+				return False			
 ```
