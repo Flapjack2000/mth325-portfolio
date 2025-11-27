@@ -7,28 +7,28 @@ If two graphs are *equal*, $G_1 = (V_1, E_1)$ and $G_2 = (V_2, E_2)$, then $V_1 
 
 Sometimes it can be hard to tell if two graphs are equal simply by looking at their representations because the same graph can be represented in multiple ways.
 
-The following graphs, $G_1$, $G_2$, $G_3$, and $G_4$, look very different, but are, in fact, the same graph. Their vertex sets and edge sets are the same. 
+The following graphs, $G_1$, $G_2$, $G_3$, and $G_4$, look very different, but are, in fact, the same graph. Their vertex sets and edge sets are the same.
 $$G_1 = G_2 = G_3 = G_4$$
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
-	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/equal-graph.png?raw=true" >
+	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/equal-graph.png?raw=true" >
 	  <figcaption><i>G<sub>1</sub></i></figcaption>
 	</figure>
 
 	<figure style="width:50%; text-align:center">
-	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/equal-graph(1).png?raw=true" >
+	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/equal-graph(1).png?raw=true" >
 	  <figcaption><i>G<sub>2</sub></i></figcaption>
 	</figure>
 </div>
 
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
-	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/equal-graph(2).png?raw=true" >
+	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/equal-graph(2).png?raw=true" >
 	  <figcaption><i>G<sub>3</sub></i></figcaption>
 	</figure>
 
 	<figure style="width:50%; text-align:center">
-	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images//equal-graph(3).png?raw=true" >
+	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images//equal-graph(3).png?raw=true" >
 	  <figcaption><i>G<sub>4</sub></i></figcaption>
 	</figure>
 </div>
@@ -40,12 +40,12 @@ The two graphs shown below, $G_5$ and $G_6$, are isomorphic, though $G_5$ $\ne$ 
 
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
-	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/isomorphic-graph.png?raw=true" >
+	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/isomorphic-graph.png?raw=true" >
 	  <figcaption><i>G<sub>5</sub></i></figcaption>
 	</figure>
 
 	<figure style="width:50%; text-align:center">
-	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/isomorphic-graph(1).png?raw=true" >
+	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/isomorphic-graph(1).png?raw=true" >
 	  <figcaption><i>G<sub>6</sub></i></figcaption>
 	</figure>
 </div>

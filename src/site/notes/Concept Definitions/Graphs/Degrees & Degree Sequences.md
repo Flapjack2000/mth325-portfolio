@@ -17,7 +17,7 @@ The degree sequence of a graph is an isomorphic invariant. For any two graphs, i
 
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
-	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/degree-seq-graph.png?raw=true" >
+	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/degree-seq-graph.png?raw=true" >
 	  <figcaption><i>G<sub>1</sub></i></figcaption>
 	</figure>
 </div>
