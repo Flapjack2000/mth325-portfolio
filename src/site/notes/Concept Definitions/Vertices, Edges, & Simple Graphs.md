@@ -7,7 +7,7 @@ A simple graph consists of two sets: a vertex set and an edge set.
 An element of the vertex set is called a vertex or node. 
 An element of the edge set is called an edge or arc. Each edge is an unordered pair of vertices. 
 
-Thus, a graph is an ordered pair of set, $G = (V, E)$. 
+Thus, a graph is an ordered pair of sets, $G = (V, E)$. 
 $G$ is a graph with vertex set $V$ and edge set $E$.
 #### Incidence & Adjacency
 When vertices $v$ and $w$ are the endpoints of an edge $e$, we say that:
