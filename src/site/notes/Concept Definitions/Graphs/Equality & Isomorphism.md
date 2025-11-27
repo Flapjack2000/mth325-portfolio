@@ -7,8 +7,8 @@ If two graphs are *equal*, $G_1 = (V_1, E_1)$ and $G_2 = (V_2, E_2)$, then $V_1 
 
 Sometimes it can be hard to tell if two graphs are equal simply by looking at their representations because the same graph can be represented in multiple ways.
 
-The following graphs, $G_1$, $G_2$, $G_3$, and $G_4$, look very different, but are, in fact, the same graph. Their vertex sets and edge sets are the same.
-
+The following graphs, $G_1$, $G_2$, $G_3$, and $G_4$, look very different, but are, in fact, the same graph. Their vertex sets and edge sets are the same. 
+$$G_1 = G_2 = G_3 = G_4$$
 <div style="display:flex">
 	<figure style="width:50%; text-align:center">
 	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/equal-graph.png?raw=true" >
@@ -32,7 +32,6 @@ The following graphs, $G_1$, $G_2$, $G_3$, and $G_4$, look very different, but a
 	  <figcaption><i>G<sub>4</sub></i></figcaption>
 	</figure>
 </div>
-
 ---
 #### Isomorphism
 Informally, if two graphs are *isomorphic*, they are equal except for their vertices needing to be "relabeled". 
