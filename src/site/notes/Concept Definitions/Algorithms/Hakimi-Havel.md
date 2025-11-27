@@ -36,5 +36,5 @@ def hakimi_havel(degree_sequence):
 			
 			# Check stopping condition 3.
 			if degree_sequence[i] < 0:
-				return False			
+				return False
 ```
