@@ -9,7 +9,8 @@
 	* [[Concept Definitions/Graphs/Edges, Vertices, & Simple Graphs\|Edges, Vertices, & Simple Graphs]]
 	* [[Concept Definitions/Graphs/Equality & Isomorphism\|Equality & Isomorphism]]
 	* [[Concept Definitions/Graphs/Walks, Trails, & Paths\|Walks, Trails, & Paths]]
+	* [[Concept Definitions/Graphs/Degrees & Degree Sequences\|Degrees & Degree Sequences]]
 ## Algorithms
-* [[Concept Definitions/Algorithms/Hakimi-Havel\|Hakimi-Havel]]
+* [[Algorithms/Hakimi-Havel\|Hakimi-Havel]]
 
 ## Proofs
