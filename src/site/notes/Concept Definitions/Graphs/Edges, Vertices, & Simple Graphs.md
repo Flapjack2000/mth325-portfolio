@@ -9,7 +9,6 @@ An element of the edge set is called an edge or arc. Each edge is an unordered p
 
 Thus, a graph is an ordered pair of set, $G = (V, E)$. 
 $G$ is a graph with vertex set $V$ and edge set $E$.
-
 #### Incidence & Adjacency
 When vertices $v$ and $w$ are the endpoints of an edge $e$, we say that:
 * Each vertex is *incident* to the edge.
