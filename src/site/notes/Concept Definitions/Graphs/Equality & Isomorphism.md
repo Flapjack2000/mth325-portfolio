@@ -33,6 +33,7 @@ $$G_1 = G_2 = G_3 = G_4$$
 	</figure>
 </div>
 <hr>
+
 #### Isomorphism
 Informally, if two graphs are *isomorphic*, they are equal except for their vertices needing to be "relabeled". 
 
