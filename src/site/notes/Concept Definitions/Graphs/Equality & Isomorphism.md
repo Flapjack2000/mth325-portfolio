@@ -9,7 +9,7 @@ Sometimes it can be hard to tell if two graphs are equal simply by looking at th
 
 The following graphs, $G_1$, $G_2$, $G_3$, and $G_4$, look very different, but are, in fact, the same graph. Their vertex sets and edge sets are the same. 
 $$G_1 = G_2 = G_3 = G_4$$
-<div style="display:flex">
+<div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/equal-graph.png?raw=true" >
 	  <figcaption><i>G<sub>1</sub></i></figcaption>
@@ -21,7 +21,7 @@ $$G_1 = G_2 = G_3 = G_4$$
 	</figure>
 </div>
 
-<div style="display:flex">
+<div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/equal-graph(2).png?raw=true" >
 	  <figcaption><i>G<sub>3</sub></i></figcaption>
@@ -38,7 +38,7 @@ Informally, if two graphs are *isomorphic*, they are equal except for their vert
 
 The two graphs shown below, $G_5$ and $G_6$, are isomorphic, though $G_5$ $\ne$ $G_6$. This relationship can be written as $G_5 \cong G_6$. 
 
-<div style="display:flex">
+<div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/notes/Images/isomorphic-graph.png?raw=true" >
 	  <figcaption><i>G<sub>5</sub></i></figcaption>

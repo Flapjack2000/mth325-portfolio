@@ -14,5 +14,3 @@ When vertices $v$ and $w$ are the endpoints of an edge $e$, we say that:
 * Each vertex is *incident* to the edge.
 * The edge is *incident* to each vertex.
 * The vertices are *adjacent* to each other.
-
-The number of edges incident to a vertex is called the *degree* of the vertex. For a single, isolated vertex, its degree is $0$.
