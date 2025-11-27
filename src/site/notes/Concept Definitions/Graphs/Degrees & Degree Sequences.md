@@ -15,9 +15,17 @@ If $Seq(G) = [d_1, d_2, ..., d_n]$, then
 
 The degree sequence of a graph is an isomorphic invariant. For any two graphs, if the graphs are isomorphic, then their degree sequences are the same.
 
+The vertex degrees of $G_1$, shown below, are as follows:
+
+$$deg(v_1) = 3$$
+$$deg(v_2) = 2$$
+$$deg(v_3) = 4$$
+$$deg(v_4) = 1$$
+$$deg(v_5) = 2$$
+The degree sequence of $G_1$, $Seq(G_1) = [4, 3, 2, 2, 1]$.
 <div style="display:flex; justify-content:center;">
-	<figure style="width:50%; text-align:center">
-	  <img src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/degree-seq-graph.png?raw=true" >
+	<figure style="width:50%; text-align:center; ">
+	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/degree-seq-graph.png?raw=true" >
 	  <figcaption><i>G<sub>1</sub></i></figcaption>
 	</figure>
 </div>
