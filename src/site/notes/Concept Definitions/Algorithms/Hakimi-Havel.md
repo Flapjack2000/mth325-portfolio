@@ -38,7 +38,6 @@ def hakimi_havel(degree_sequence):
 			if degree_sequence[i] < 0:
 				return False
 ```
-
 #### TypeScript: Hakimi-Havel Algorithm
 ```ts
 function hakimiHavel(degreeSequence:number[]):boolean{
