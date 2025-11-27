@@ -7,11 +7,11 @@
 ## Concept Definitions
 * Graphs
 	* Properties of Graphs
-		* [[Concept Definitions/Graphs/Edges, Vertices, & Simple Graphs\|Edges, Vertices, & Simple Graphs]]
-		* [[Concept Definitions/Graphs/Equality & Isomorphism\|Equality & Isomorphism]]
-		* [[Concept Definitions/Graphs/Walks, Trails, & Paths\|Walks, Trails, & Paths]]
-		* [[Concept Definitions/Graphs/Degrees & Degree Sequences\|Degrees & Degree Sequences]]
-		* [[Concept Definitions/Graphs/Connected Components\|Connected Components]]
+		* [[Concept Definitions/Graphs/Properties of Graphs/Edges, Vertices, & Simple Graphs\|Edges, Vertices, & Simple Graphs]]
+		* [[Concept Definitions/Graphs/Properties of Graphs/Equality & Isomorphism\|Equality & Isomorphism]]
+		* [[Concept Definitions/Graphs/Properties of Graphs/Walks, Trails, & Paths\|Walks, Trails, & Paths]]
+		* [[Concept Definitions/Graphs/Properties of Graphs/Degrees & Degree Sequences\|Degrees & Degree Sequences]]
+		* [[Concept Definitions/Graphs/Properties of Graphs/Connected Components\|Connected Components]]
 	* Trees
 	* Directed Graphs
 ## Algorithms
