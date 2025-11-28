@@ -11,7 +11,7 @@ If $T$ is a tree, then every edge of $T$ is a cut edge.
 * Trees are connected.
 * Trees never contain cycles.
 * Contrapositive: If an edge is not a cut edge, then it is not in a tree.
-#### Proof by Direct Proof
+#### Proof (by Direct Proof)
 Let $e = \{u, v\}$ be an arbitrary edge in a tree, $T$ = $(V, E)$, with a number of vertices $n \ge 2$. 
 * Note that if $T$ has only one vertex, then it does not have any edges, and this conjecture would not apply.
 
