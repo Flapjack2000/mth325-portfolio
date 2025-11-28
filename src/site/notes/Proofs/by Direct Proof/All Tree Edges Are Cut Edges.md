@@ -6,13 +6,14 @@
 Conjecture 3 from [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]].
 If $T$ is a tree, then every edge of $T$ is a cut edge.
 #### Initial Thoughts
-* In a tree, there is only one path between two distinct vertices.
+* In a tree, there is only one path between any two distinct vertices.
 * Removing a cut edge makes a graph disconnected.
 * Trees are connected.
 * Trees never contain cycles.
 * Contrapositive: If an edge is not a cut edge, then it is not in a tree.
 #### Proof by Direct Proof
-Let $e = \{u, v\}$ be an arbitrary edge in a tree, $T$ = $(V, E)$.
+Let $e = \{u, v\}$ be an arbitrary edge in a tree, $T$ = $(V, E)$, with a number of vertices $n \ge 2$. 
+* Note that if $T$ has only one vertex, then it does not have any edges, and this conjecture would not apply.
 
 By definition, trees are connected and acyclic. Also, since $T$ is a tree, there must be exactly one path between $u$ and $v$.
 
