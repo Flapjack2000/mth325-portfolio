@@ -14,6 +14,8 @@
 2. To be able to explain the material to another student.
 3. 
 
+<hr>
+
 ## Table of Contents
 #### Concept Definitions
 * [[Concept Definitions/Vertices, Edges, & Simple Graphs\|Vertices, Edges, & Simple Graphs]]
