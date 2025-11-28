@@ -8,7 +8,10 @@
 	<i>Fall 2025</i>
 	<i>Zachary Williams</i>
 </div>
-
+## Goals
+1. To be able to use the concepts I learn in this course in my other courses.
+2. To be able to explain the material to another student.
+3. 
 
 ## Table of Contents
 
@@ -28,3 +31,9 @@
 * [[Algorithms/Prim's Minimum Spanning Tree\|Prim's Minimum Spanning Tree]]
 * [[Algorithms/Kruskal's Minimum Spanning Tree\|Kruskal's Minimum Spanning Tree]]
 ### Proofs
+* [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]]
+* by Contradiction
+	* [[Proofs/Conjecture 3\|Conjecture 3]]
+* by Contrapositive
+* by Direct Proof
+* by Induction

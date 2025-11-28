@@ -18,3 +18,5 @@ The graph $G$, shown below, has two connected components.
 	  <figcaption><i>A graph, G, with two connected components.</i></figcaption>
 	</figure>
 </div>
+
+If an edge in a connected graph would leave a subgraph that is not connected if it were deleted, then that edge is a *cut edge*.
