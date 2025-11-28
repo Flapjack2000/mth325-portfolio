@@ -19,4 +19,6 @@ By definition, trees are connected and acyclic. Also, since $T$ is a tree, there
 
 If there is exactly one path between $u$ and $v$, and there is an edge $e$ between $u$ and $v$, the path must be the edge $e$. If there was another path from $u$ to $v$, then the graph would be cyclic and not a tree. 
 
-Because $e$ is the only path from $u$ to $v$, 
+Because $e$ is the only path from $u$ to $v$, if $e$ was removed from $T$, there would be no path from $u$ to $v$. Therefore, $u$ and $v$ are in different connected components. This means that $T - e$ is not a tree, because it is not connected.
+
+This shows that $e$ must be a cut edge, and because $e$ is an arbitrary edge in $T$, every edge in $T$ must be a cut edge.
