@@ -7,6 +7,7 @@
 	<h1>MTH 325 Portfolio</h1>
 	<i>Fall 2025</i>
 	<i>Zachary Williams</i>
+	<i>Dr. Clark Wells</i>
 </div>
 
 ## Goals
