@@ -36,7 +36,8 @@
 #### Proofs
 * [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]]
 * by Contradiction
-	* [[Proofs/by Direct Proof/All Tree Edges Are Cut Edges\|All Tree Edges Are Cut Edges]]
 * by Contrapositive
 * by Direct Proof
+	* [[Proofs/by Direct Proof/All Tree Edges Are Cut Edges\|All Tree Edges Are Cut Edges]]
 * by Induction
+	* [[Proofs/by Induction/Chromatic Number of Complete Graphs\|Chromatic Number of Complete Graphs]]
