@@ -25,8 +25,9 @@
 * [[Concept Definitions/Degrees & Degree Sequences\|Degrees & Degree Sequences]]
 * [[Concept Definitions/Subgraphs & Connectivity\|Subgraphs & Connectivity]]
 * [[Concept Definitions/Weighted Graphs\|Weighted Graphs]]
-* [[Concept Definitions/Minimum Spanning Tree\|Minimum Spanning Tree]]
 * [[Concept Definitions/Directed Graphs\|Directed Graphs]]
+* [[Concept Definitions/Trees\|Trees]]
+* [[Concept Definitions/Minimum Spanning Tree\|Minimum Spanning Tree]]
 #### Algorithms
 * [[Algorithms/Hakimi-Havel\|Hakimi-Havel]]
 * [[Algorithms/Depth First Search\|Depth First Search]]
