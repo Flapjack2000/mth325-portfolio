@@ -12,8 +12,8 @@
 
 ## Goals
 1. To be able to use the concepts I learn in this course in my other courses.
-2. To be able to explain the material to another student.
-3. 
+2. To be able to explain the course material to another student.
+3. To be able to find real-world cases where the course material can be applied.
 
 <hr>
 
