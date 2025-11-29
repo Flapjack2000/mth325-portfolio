@@ -16,7 +16,7 @@ The complete graph $K_1$ has only one vertex, so it requires only one color. Thu
 Assume that for some integer $k \ge 1$, the chromatic number of the complete graph $K_k$ is $k$. Each vertex in $K_k$ has a unique color assigned to it.
 
 **Inductive Step**
-The complete graph  $K_{k+1}$ can be created by adding a vertex to $K_k$ and connecting that vertex to every other vertex with a new edge. 
+The complete graph $K_{k+1}$ can be created by adding a vertex to $K_k$ and connecting that vertex to every other vertex with a new edge. 
 
 $K_{k+1}$ can be colored by assigning 
 * color $1$ to $v_1$,
@@ -26,4 +26,4 @@ $K_{k+1}$ can be colored by assigning
 * color k to $v_k$, 
 * and color $k+1$ to $v_{k+1}$.
 
-This is a valid coloring using $k+1$ colors, so $X(K_{k+1})$.
+This is a valid coloring using $k+1$ colors, so $X(K_{k+1}) \le k+1$.
