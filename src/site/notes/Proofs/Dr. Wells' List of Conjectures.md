@@ -7,7 +7,7 @@
 
 2. In a connected graph G, if an edge (u,v) is the only path from u to v, then (u,v) is a cut edge.
 
-3. If T is a tree, then every edge of T is a cut edge.
+3. If T is a tree, then every edge of T is a cut edge. [[Proofs/by Direct Proof/All Tree Edges Are Cut Edges\|Jump to Proof]]
 
 4. If G is a connected graph and Δ(G) = δ(G) = 2 (all the vertices have degree 2), then G is a cycle.
 

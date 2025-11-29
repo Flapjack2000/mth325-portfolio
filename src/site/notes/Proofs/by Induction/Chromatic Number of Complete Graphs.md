@@ -13,7 +13,7 @@ For every integer $n \ge 1$, the chromatic number $X(n)$ of the complete graph $
 The complete graph $K_1$ has only one vertex, so it requires only one color. Thus, $X(K_1) = 1$, and the conjecture holds true.
 
 **Inductive Hypothesis**
-Assume that for some integer $k \ge 1$, the chromatic number of the complete graph $K_k$ is $k$. Each vertex in $K_k$ has a unique color assigned to it because
+Assume that for some integer $k \ge 1$, the chromatic number of the complete graph $K_k$ is $k$. Each vertex in $K_k$ has a unique color assigned.
 
 **Inductive Step**
 The graph $K_{k+1}$ can be created by adding a vertex to $K_k$. 
