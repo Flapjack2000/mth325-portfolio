@@ -18,8 +18,8 @@ Assume that for some integer $k \ge 1$, the chromatic number of the complete gra
 **Inductive Step**
 The complete graph $K_{k+1}$ can be created by adding a vertex to $K_k$ and creating an edge between that vertex and every other vertex.
 
-To color $K_{k+1}$, the same $k$ colors from $K_k$ can be used, plus a new color $k+1$. Therefore $X(K_{k+1}) \le k+1$.
+To color $K_{k+1}$, the same $k$ colors from $K_k$ can be used, plus a new color $k+1$. Therefore, $X(K_{k+1}) \le k+1$.
 
-Because $K_{k+1}$ is a complete graph, the new $(k+1)$-th vertex is adjacent to each of the other $k$ vertices, so the new vertex must use a new color that isn't used in $K_k$. 
+Because $K_{k+1}$ is a complete graph, the new $(k+1)$-th vertex, $v_{k+1}$, is adjacent to each of the other $k$ vertices, so $v_{k+1}$ must be assigned a color that isn't used in $K_k$. Therefore, $X(K_{k+1}) \ge k+1$.
 
-Since $K_k$ was colored with $k$ colors and $K_{k+1}$ must be colored with $k+1$ colors, $X(K_{k+1}) = k+1$.
+Since $K_{k+1}$ can be colored with $k+1$ colors and cannot be colored with fewer than $k+1$ colors, $X(K_{k+1}) = k+1$.
