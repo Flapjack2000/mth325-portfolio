@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/proofs/dr-wells-list-of-conjectures/"}
 ---
 
-
 1. In a graph G, if there are at least 2 distinct paths from a vertex u to another vertex v, then G contains a cycle.
 
 2. In a connected graph G, if an edge (u,v) is the only path from u to v, then (u,v) is a cut edge.

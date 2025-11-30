@@ -2,7 +2,6 @@
 {"dg-publish":true,"permalink":"/proofs/by-induction/chromatic-number-of-complete-graphs/"}
 ---
 
-
 #### Conjecture
 For every integer $n \ge 1$, the chromatic number $X(K_n)$ of the complete graph $K_n$ is exactly $n$.
 #### Initial Thoughts
