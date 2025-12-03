@@ -10,4 +10,4 @@ In a graph $G$, if there are at least $2$ distinct paths from a vertex $u$ to an
 #### Proof (by Direct Proof)
 Let $G=(V, E)$ be a graph with vertices $u, v \in V$. Between $u$ and $v$, there are at least $2$ distinct paths.
 
-Let $P_1 = [x_0, x_1, ..., x_k]$ and $P_2 = [y_0, y_1, ..., y_m]$ be any two distinct paths from $u$ to $v$.
+Let $P_1 = [x_0, x_1, ...,x_{k-1}, x_k]$ and $P_2 = [y_0, y_1, ...,y_{m-1}, y_m]$ be any two distinct paths from $u$ to $v$. 
