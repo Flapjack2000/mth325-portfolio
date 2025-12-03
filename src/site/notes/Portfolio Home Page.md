@@ -16,12 +16,12 @@
 	
 	There is a lot of overlap between CIS 263 and MTH 325, especially regarding searching graphs/trees and finding minimum spanning trees.
 <br>
-1. **To be able to explain the course material to another student.**
+2. **To be able to explain the course material to another student.**
 	I've been involved in discussions with fellow MTH 325 classmates in the Computing Success Center about the course material.
 	
 	Also, whenever I see my father, I like to explain whatever topics I'm learning about to him to solidify my understanding and grow my teaching skills.
 <br>
-1. **To be able to find real-world cases where the course material can be applied.**
+3. **To be able to find real-world cases where the course material can be applied.**
 	I was looking up some examples of trees being used to solve problems, and I learned that [Morse code can be deciphered with a binary tree](https://commons.wikimedia.org/wiki/File:Morse_code_tree3.svg). Dots are left, dashes are right.
 	
 	To practice coding binary tree traversal, I made a [Morse code translator website](https://github.com/Flapjack2000/morse-code-translator). Not only does it translate Morse code dots and dashes, there is also a handy English alphabet to Morse code lookup table that is created by traversing the tree, pushing everything to an array, then sorting the result. This way, if I add more characters later (like letters not in the English alphabet), I won't have to update the tree traversal algorithm.	
@@ -42,15 +42,15 @@
 * [[Concept Definitions/Minimum Spanning Tree\|Minimum Spanning Tree]]
 #### Algorithms
 * [[Algorithms/Hakimi-Havel\|Hakimi-Havel]]
-* [[Depth First Search\|Depth First Search]]
-* [[Breadth First Search\|Breadth First Search]]
 * [[Algorithms/Prim's Minimum Spanning Tree\|Prim's Minimum Spanning Tree]]
 * [[Algorithms/Kruskal's Minimum Spanning Tree\|Kruskal's Minimum Spanning Tree]]
 #### Proofs
 * [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]]
 * by Contradiction
+	* [[Proofs/by Contradiction/Connected Graphs with Minimal Edges Are Trees\|Connected Graphs with Minimal Edges Are Trees]]
 * by Contrapositive
 * by Direct Proof
 	* [[Proofs/by Direct Proof/All Tree Edges Are Cut Edges\|All Tree Edges Are Cut Edges]]
+	* [[Proofs/by Direct Proof/Two Distinct Paths Between Two Vertices Imply a Cycle\|Two Distinct Paths Between Two Vertices Imply a Cycle]]
 * by Induction
 	* [[Proofs/by Induction/Chromatic Number of Complete Graphs\|Chromatic Number of Complete Graphs]]
