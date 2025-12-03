@@ -3,7 +3,7 @@
 ---
 
 #### Conjecture
-Conjecture 3 from [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]].
+* Conjecture 3 from [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]].
 If $T$ is a tree, then every edge of $T$ is a cut edge.
 #### Initial Thoughts
 * In a tree, there is only one path between any two distinct vertices.
