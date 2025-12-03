@@ -42,8 +42,8 @@
 * [[Concept Definitions/Minimum Spanning Tree\|Minimum Spanning Tree]]
 #### Algorithms
 * [[Algorithms/Hakimi-Havel\|Hakimi-Havel]]
-* [[Algorithms/Depth First Search\|Depth First Search]]
-* [[Algorithms/Breadth First Search\|Breadth First Search]]
+* [[Depth First Search\|Depth First Search]]
+* [[Breadth First Search\|Breadth First Search]]
 * [[Algorithms/Prim's Minimum Spanning Tree\|Prim's Minimum Spanning Tree]]
 * [[Algorithms/Kruskal's Minimum Spanning Tree\|Kruskal's Minimum Spanning Tree]]
 #### Proofs

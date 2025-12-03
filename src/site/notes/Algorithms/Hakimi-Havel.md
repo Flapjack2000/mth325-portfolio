@@ -11,7 +11,7 @@ The approach goes as follows:
 	1. All of the remaining elements are equal to $0$. (A simple graph exists.)
 	2. There are not enough remaining elements to subtract from in step $2$. (No simple graph exists.)
 	3. One or more of the remaining elements is less than $0$. (No simple graph exists.)
-#### Python: Hakimi-Havel Algorithm
+#### Python Interpretation
 ```python
 def hakimi_havel(degree_sequence):
 	
@@ -38,7 +38,7 @@ def hakimi_havel(degree_sequence):
 			if degree_sequence[i] < 0:
 				return False
 ```
-#### TypeScript: Hakimi-Havel Algorithm
+#### TypeScript Interpretation
 ```ts
 function hakimiHavel(degreeSequence:number[]):boolean{
 	
