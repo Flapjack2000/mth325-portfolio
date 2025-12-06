@@ -56,5 +56,5 @@
 	* [[Proofs/by Direct Proof/Two Distinct Paths Between Two Vertices Imply a Cycle\|Two Distinct Paths Between Two Vertices Imply a Cycle]]
 * by Induction
 	* Weak Induction
-		* [[Proofs/by Induction/Chromatic Number of Complete Graphs\|Chromatic Number of Complete Graphs]]
+		* [[Proofs/by Induction/Weak Induction/Chromatic Number of Complete Graphs\|Chromatic Number of Complete Graphs]]
 	* Strong Induction
