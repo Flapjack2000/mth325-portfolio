@@ -49,10 +49,13 @@
 #### Proofs
 * [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]]
 * by Contradiction
-	* [[Proofs/by Contrapositive/Connected Graphs with Minimal Edges Are Trees\|Connected Graphs with Minimal Edges Are Trees]]
+	* [[Proofs/by Contradiction/Exactly One Path Between Any Two Vertices in a Tree\|Exactly One Path Between Any Two Vertices in a Tree]]
 * by Contrapositive
+	* [[Proofs/by Contrapositive/Connected Graphs with Minimal Edges Are Trees\|Connected Graphs with Minimal Edges Are Trees]]
 * by Direct Proof
 	* [[Proofs/by Direct Proof/All Tree Edges Are Cut Edges\|All Tree Edges Are Cut Edges]]
 	* [[Proofs/by Direct Proof/Two Distinct Paths Between Two Vertices Imply a Cycle\|Two Distinct Paths Between Two Vertices Imply a Cycle]]
 * by Induction
-	* [[Proofs/by Induction/Chromatic Number of Complete Graphs\|Chromatic Number of Complete Graphs]]
+	* Weak Induction
+		* [[Proofs/by Induction/Chromatic Number of Complete Graphs\|Chromatic Number of Complete Graphs]]
+	* Strong Induction
