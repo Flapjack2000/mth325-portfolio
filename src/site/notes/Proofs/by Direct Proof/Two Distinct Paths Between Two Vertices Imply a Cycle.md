@@ -4,7 +4,8 @@
 
 #### Conjecture
 * Conjecture 1 from [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]].
-In a graph $G$, if there are at least $2$ distinct paths from a vertex $u$ to another vertex $v$, then $G$ contains a cycle.
+
+>In a graph $G$, if there are at least $2$ distinct paths from a vertex $u$ to another vertex $v$, then $G$ contains a cycle.
 #### Initial Thoughts
 * If you have two different paths from $u$ to $v$, the paths must split at some point and rejoin later, making a cycle.
 #### Proof (by Direct Proof)

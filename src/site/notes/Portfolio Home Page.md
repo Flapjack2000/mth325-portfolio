@@ -47,7 +47,7 @@
 #### Proofs
 * [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]]
 * by Contradiction
-	* [[Proofs/by Contradiction/Connected Graphs with Minimal Edges Are Trees\|Connected Graphs with Minimal Edges Are Trees]]
+	* [[Proofs/by Contrapositive/Connected Graphs with Minimal Edges Are Trees\|Connected Graphs with Minimal Edges Are Trees]]
 * by Contrapositive
 * by Direct Proof
 	* [[Proofs/by Direct Proof/All Tree Edges Are Cut Edges\|All Tree Edges Are Cut Edges]]
