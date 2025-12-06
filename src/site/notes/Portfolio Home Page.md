@@ -54,6 +54,7 @@
 * by Direct Proof
 	* [[Proofs/by Direct Proof/All Tree Edges Are Cut Edges\|All Tree Edges Are Cut Edges]]
 	* [[Proofs/by Direct Proof/Two Distinct Paths Between Two Vertices Imply a Cycle\|Two Distinct Paths Between Two Vertices Imply a Cycle]]
+	* [[Proofs/by Direct Proof/Trees With At Least Two Vertices Have Leaves\|Trees With At Least Two Vertices Have Leaves]]
 * by Induction
 	* Weak Induction
 		* [[Proofs/by Induction/Weak Induction/Chromatic Number of Complete Graphs\|Chromatic Number of Complete Graphs]]

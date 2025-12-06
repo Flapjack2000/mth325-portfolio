@@ -17,5 +17,5 @@ The contrapositive of the conjecture is this:
 
 If $G$ is not a tree and is not connected, then the contrapositive holds.
 
-
+**NEEDS FINISHING**
 
