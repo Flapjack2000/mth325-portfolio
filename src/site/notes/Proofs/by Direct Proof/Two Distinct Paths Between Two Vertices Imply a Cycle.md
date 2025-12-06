@@ -3,7 +3,7 @@
 ---
 
 #### Conjecture
-* Conjecture 1 from [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]].
+>Conjecture 1 from [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]].
 
 >In a graph $G$, if there are at least $2$ distinct paths from a vertex $u$ to another vertex $v$, then $G$ contains a cycle.
 #### Initial Thoughts
