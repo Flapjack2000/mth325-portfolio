@@ -3,7 +3,7 @@
 ---
 
 #### Conjecture
-* Conjecture 14 from [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]].
+>Conjecture 14 from [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]].
 
 >Let $G$ be a graph with $n$ vertices. If $G$ is connected and has $n − 1$ edges, then G is a [[Concept Definitions/Trees\|tree]].
 #### Initial Thoughts
