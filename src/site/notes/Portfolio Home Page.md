@@ -27,7 +27,7 @@
 >I was looking up some examples of trees being used to solve problems, and I learned that [Morse code can be deciphered with a binary tree](https://commons.wikimedia.org/wiki/File:Morse_code_tree3.svg). Dots are left, dashes are right.
 >
 >To practice coding binary tree traversal, I made a [Morse code translator website](https://github.com/Flapjack2000/morse-code-translator). Not only does it translate Morse code dots and dashes, there is also a handy English alphabet to Morse code lookup table that is created by traversing the tree, pushing everything to an array, then sorting the result. This way, if I add more characters later (like letters not in the English alphabet), I won't have to update the tree traversal algorithm.	
-
+<br>
 
 <hr>
 
