@@ -18,7 +18,7 @@
 >There is a lot of overlap between CIS 263 and MTH 325, especially regarding searching graphs/trees and finding minimum spanning trees.
 <br>
 2. **To be able to explain the course material to another student.**
->I've been involved in discussions with fellow MTH 325 classmates in the Computing Success Center about the course material. 
+>I've been involved in discussions with fellow MTH 325 classmates in the Computing Success Center about the course material. I feel confident in my ability to explain the content of the course to another student.
 >
 >Also, whenever I see my father, I like to explain whatever topics I'm learning about to him to solidify my understanding and grow my teaching skills.
 <br>
