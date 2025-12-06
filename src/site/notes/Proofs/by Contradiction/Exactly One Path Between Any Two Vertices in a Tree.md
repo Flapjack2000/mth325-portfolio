@@ -14,6 +14,6 @@ Assume for the sake of contradiction that there exists a tree $T = (V, E)$ and v
 
 If $p = 0$, then $u$ and $v$ are not connected, implying that $T$ is not a connected graph. However, $T$ is a tree and must, by definition, be a connected graph. Therefore, $p \ne 0$.
 
-If $p \ge 2$, then there are at least two distinct paths between $u$ and $v$. [[Proofs/by Direct Proof/Two Distinct Paths Between Two Vertices Imply a Cycle\|Therefore, $T$ contains a cycle]]. However, $T$ is a tree and must, by definition, be acyclic. Therefore, $p \not\geq 2$. Equivalently, $p \lt 2$.
+If $p \ge 2$, then there are at least two distinct paths between $u$ and $v$. [[Proofs/by Direct Proof/Two Distinct Paths Between Two Vertices Imply a Cycle\|Therefore, T contains a cycle]]. However, $T$ is a tree and must, by definition, be acyclic. Therefore, $p \not\geq 2$. Equivalently, $p \lt 2$.
 
 Since ${p \in {\mathbb N}} \land ({0 \lt p \lt 2})$, the only possibility is $p = 1$, contradicting the assumption that $p \ne 1$. Therefore, there is exactly one path from $u$ to $v$.
