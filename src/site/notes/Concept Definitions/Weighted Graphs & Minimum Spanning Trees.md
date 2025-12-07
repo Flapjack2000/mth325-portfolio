@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/concept-definitions/weighted-graphs-and-minimum-spanning-trees/"}
 ---
 
+
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/weighted-directed-graph.png?raw=true" >
