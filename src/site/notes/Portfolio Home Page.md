@@ -44,7 +44,9 @@
 * [[Algorithms/Hakimi-Havel\|Hakimi-Havel]]
 * [[Algorithms/Prim's Minimum Spanning Tree\|Prim's Minimum Spanning Tree]]
 * [[Algorithms/Kruskal's Minimum Spanning Tree\|Kruskal's Minimum Spanning Tree]]
-* [[Dj\|Dj]]
+* [[Algorithms/Dijkstra's Shortest Distances\|Dijkstra's Shortest Distances]]
+* [[Algorithms/Floyd-Roy-Warshall\|Floyd-Roy-Warshall]]
+* [[Algorithms/Ford-Fulkerson\|Ford-Fulkerson]]
 #### Proofs
 * [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]]
 * by Contradiction
