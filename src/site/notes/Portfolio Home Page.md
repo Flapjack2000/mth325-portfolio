@@ -56,7 +56,7 @@
 	* [[Proofs/by Direct Proof/Trees With At Least Two Vertices Have Leaves\|Trees With At Least Two Vertices Have Leaves]]
 * by Induction
 	* Weak Induction
+		* [[Proofs/by Induction/Weak Induction/Trees Have n-1 Edges\|Trees Have n-1 Edges]]
 		* [[Proofs/by Induction/Weak Induction/Chromatic Number of Complete Graphs\|Chromatic Number of Complete Graphs]]
 	* Strong Induction
 		* [[Proofs/by Induction/Strong Induction/There Exists a Valid Ranking for Any Tournament\|There Exists a Valid Ranking for Any Tournament]]
-		* [[Proofs/by Induction/Strong Induction/Trees Have n-1 Edges\|Trees Have n-1 Edges]]
