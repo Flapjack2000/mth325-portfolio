@@ -16,11 +16,41 @@ Note: If the graph is disconnected, the algorithm will create a minimum spanning
 
 #### Python Interpretation
 ```python
+class Edge:
+	def __init__(self, v1, v2, weight):
+		self.v1 = v1
+		self.v2 = v2
+		self.weight = weight
+
+class DisjointSet:
+	def __init__(self, n):
+		self.parent = list(range(n))
+	
+	def find(self, e):
+		if self.parent[x] != x:
+			self.parent[x] = self.find(self.parent[x])
+		return self.parent[x]
+	
+	def union(self, x, y):
+		parent_x, parent_y = self.find(x), self.find(y)
+		if parent_x == parent_y:
+			return False
+		self.parent[parent_y] = parent_x
+		return True
+
 def kruskal(edges):
-
-
-
-
-
-
+	vertices = set()
+	for edge in edges:
+		vertices.update([e.v1, e.v2])
+	n = max(vertices) + 1
+	
+	edges.sort(key=lambda e: e.weight)
+	
+	ds = DisjointSet(n)
+	mst = []
+	
+	for edge in edges:
+		if ds.union(e.v1, e.v2):
+			mst.append(e)
+	return mst
 ```
