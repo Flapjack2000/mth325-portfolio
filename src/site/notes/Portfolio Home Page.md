@@ -40,6 +40,13 @@
 * [[Concept Definitions/Weighted Graphs & Minimum Spanning Trees\|Weighted Graphs & Minimum Spanning Trees]]
 * [[Concept Definitions/Directed Graphs\|Directed Graphs]]
 * [[Concept Definitions/Trees\|Trees]]
+* [[Concept Definitions/Adjacency Matrices\|Adjacency Matrices]]
+* [[Concept Definitions/Relations and Closures\|Relations and Closures]]
+* [[Concept Definitions/Tournaments\|Tournaments]]
+* [[Concept Definitions/Euler Circuits and Trails\|Euler Circuits and Trails]]
+* [[Concept Definitions/Hamilton Cycles and Paths\|Hamilton Cycles and Paths]]
+* [[Concept Definitions/Vertex Coloring\|Vertex Coloring]]
+* [[Concept Definitions/Maximum Flow and Minimum Cut Problems\|Maximum Flow and Minimum Cut Problems]]
 #### Algorithms
 * [[Algorithms/Hakimi-Havel\|Hakimi-Havel]]
 * [[Algorithms/Prim's Minimum Spanning Tree\|Prim's Minimum Spanning Tree]]

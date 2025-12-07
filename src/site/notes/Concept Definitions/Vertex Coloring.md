@@ -7,3 +7,6 @@ A *proper vertex coloring* is an assignment of a color to each vertex in a graph
 
 #### The Chromatic Number of a Graph
 
+
+#### Cliques
+A clique is a subraph that is isomorphic to a complete graph. 
