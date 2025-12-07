@@ -15,7 +15,7 @@ They can be used for undirected and directed graphs, as well as unweighted and w
 
 3 7 9 2 8 1 4 6
 
-**Undirected & Unweighted**
+###### Undirected & Unweighted
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/adjmat-00.png?raw=true" >
@@ -37,7 +37,7 @@ $$
 
 
 
-**Undirected & Weighted**
+###### Undirected & Weighted
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/adjmat-01.png?raw=true" >
@@ -58,7 +58,7 @@ $$
 
 
 
-**Directed & Unweighted**
+###### Directed & Unweighted
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/adjmat-10.png?raw=true" >
@@ -79,7 +79,7 @@ $$
 
 
 
-**Directed & Weighted**
+###### Directed & Weighted
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/adjmat-11.png?raw=true" >
