@@ -8,8 +8,14 @@ If the degree of a vertex of a tree is $1$, then it can be called a *leaf*.
 
 A graph $T = (V, E)$ is a tree if and only if, for any distinct vertices $u, v \in V$, there is exactly one path from $u$ to $v$.
 
-#### Rooted Trees
+<div style="display:flex; justify-content:center;">
+	<figure style="width:50%; text-align:center">
+	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/tree(1).png?raw=true" >
+	  <figcaption><i>A tree.</i></figcaption>
+	</figure>
+</div>
 
+#### Rooted Trees
 A *rooted tree* is a tree, $T$, with a designated vertex, $r$, called the root. 
 
 The length of the path from the root to a vertex is called the vertex's distance from the root. All edges in the path are directed from vertices with lower distance to vertices with higher distance from the root.
