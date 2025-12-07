@@ -44,6 +44,7 @@
 * [[Algorithms/Hakimi-Havel\|Hakimi-Havel]]
 * [[Algorithms/Prim's Minimum Spanning Tree\|Prim's Minimum Spanning Tree]]
 * [[Algorithms/Kruskal's Minimum Spanning Tree\|Kruskal's Minimum Spanning Tree]]
+* [[Dj\|Dj]]
 #### Proofs
 * [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]]
 * by Contradiction
