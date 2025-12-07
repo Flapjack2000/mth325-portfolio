@@ -37,10 +37,9 @@
 * [[Concept Definitions/Walks, Trails, & Paths\|Walks, Trails, & Paths]]
 * [[Concept Definitions/Degrees & Degree Sequences\|Degrees & Degree Sequences]]
 * [[Concept Definitions/Subgraphs & Connectivity\|Subgraphs & Connectivity]]
-* [[Concept Definitions/Weighted Graphs\|Weighted Graphs]]
+* [[Concept Definitions/Weighted Graphs & Minimum Spanning Trees\|Weighted Graphs & Minimum Spanning Trees]]
 * [[Concept Definitions/Directed Graphs\|Directed Graphs]]
 * [[Concept Definitions/Trees\|Trees]]
-* [[Concept Definitions/Minimum Spanning Tree\|Minimum Spanning Tree]]
 #### Algorithms
 * [[Algorithms/Hakimi-Havel\|Hakimi-Havel]]
 * [[Algorithms/Prim's Minimum Spanning Tree\|Prim's Minimum Spanning Tree]]
