@@ -2,18 +2,15 @@
 {"dg-publish":true,"permalink":"/concept-definitions/adjacency-matrices/"}
 ---
 
-#### Vectors
-
-
-#### Matrices
-
 
 #### Adjacency Matrices
 An adjacency matrix is a way of representing a graph by using a square matrix with a number of rows and columns equal to the number of vertices in the graph's vertex set.
 
 They can be used for undirected and directed graphs, as well as unweighted and weighted graphs.
 
-3 7 9 2 8 1 4 6
+For undirected graphs, the matrix is symmetric because an edge connects its incident vertices both ways. For directed graphs, the matrix can be asymmetric because the edge are directional.
+
+For unweighted graphs, the entries are either $0$ or $1$ to represent the absense or presence of an edge. For weighted graphs, the entries are the edges' weights with a special value (such as $0$ or $\infty$) to denote no connection between vertices.
 
 ###### Undirected & Unweighted
 <div style="display:flex; justify-content:center;">
