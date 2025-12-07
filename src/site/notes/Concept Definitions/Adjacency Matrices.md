@@ -21,6 +21,8 @@ They can be used for undirected and directed graphs, as well as unweighted and w
 	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/adjmat-00.png?raw=true" >
 	</figure>
 </div>
+
+
 $$
 \begin{bmatrix}     
 0 & 0 & 1 & 0 & 1 & 1 \\  
@@ -32,12 +34,17 @@ $$
 \end{bmatrix}
 $$
 
+
+
+
 **Undirected & Weighted**
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/adjmat-01.png?raw=true" >
 	</figure>
 </div>
+
+
 $$
 \begin{bmatrix}     
 0 & 0 & 3 & 0 & 7 & 9 \\  
@@ -49,12 +56,16 @@ $$
 \end{bmatrix}
 $$
 
+
+
 **Directed & Unweighted**
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/adjmat-10.png?raw=true" >
 	</figure>
 </div>
+
+
 $$
 \begin{bmatrix}     
 0 & 0 & 1 & 0 & 1 & 1 \\  
@@ -66,12 +77,16 @@ $$
 \end{bmatrix}
 $$
 
+
+
 **Directed & Weighted**
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/adjmat-11.png?raw=true" >
 	</figure>
 </div>
+
+
 $$
 \begin{bmatrix}     
 0 & 0 & 3 & 0 & 7 & 9 \\  
@@ -82,3 +97,4 @@ $$
 0 & 0 & 0 & 0 & 0 & 0 \\     
 \end{bmatrix}
 $$
+
