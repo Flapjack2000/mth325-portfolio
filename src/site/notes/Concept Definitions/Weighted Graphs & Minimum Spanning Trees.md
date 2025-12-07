@@ -14,7 +14,6 @@
 </div>
 
 A *weighted graph* is a graph where each edge is assigned a value, which is called its weight. Weights can represent just about anything: cost, profit, capacity, distance, time, strength, energy, etc.
-
 #### Minimum Spanning Trees
 A minimum spanning tree (or MST) is a subgraph of a connected, weighted graph that connects all vertices with the minimum possible total edge weight. 
 
