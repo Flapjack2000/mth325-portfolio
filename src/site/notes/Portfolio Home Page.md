@@ -20,7 +20,7 @@
 >**2. To be able to explain the course material to another student.**
 >I've been involved in discussions with fellow MTH 325 classmates in the Computing Success Center about the course material. I feel confident in my ability to explain the content of the course to another student.
 >
->Also, whenever I see my father, I like to explain whatever topics I'm learning about to him to solidify my understanding and grow my teaching skills.
+>Also, whenever I see my father, I like to explain whatever topics I'm learning about to him to solidify my understanding and grow my teaching skills. I taught him how to use Kruskal's algorithm to find a minimum spanning tree.
 <br>
 >**3. To be able to find real-world cases where the course material can be applied.**
 >I was looking up some examples of trees being used to solve problems, and I learned that [Morse code can be deciphered with a binary tree](https://commons.wikimedia.org/wiki/File:Morse_code_tree3.svg). Dots are left, dashes are right.
