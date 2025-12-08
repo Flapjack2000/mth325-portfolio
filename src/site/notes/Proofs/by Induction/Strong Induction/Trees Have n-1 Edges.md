@@ -9,7 +9,7 @@
 #### Initial Thoughts
 * Trees are connected and do not contain cycles
 * Trees are minimally connected
-#### Proof (by Induction)
+#### Proof (by Strong Induction)
 ##### Base Case
 Let $T = (V, E)$ be a tree with exactly $1$ vertex. $T$ is simply a lone vertex with no edges, thus $|E| = 0$, and the conjecture holds for $n=1$.
 

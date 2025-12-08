@@ -10,3 +10,5 @@ $(u, v) \in E$ can be written as $u \to v$.
 
 #### Rankings
 A ranking is an ordering of the vertices of a tournament so that
+
+**NEEDS FINISHING**

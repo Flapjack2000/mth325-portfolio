@@ -10,3 +10,5 @@ A *proper vertex coloring* is an assignment of a color to each vertex in a graph
 
 #### Cliques
 A clique is a subgraph that is isomorphic to a complete graph. 
+
+**NEEDS FINISHING**

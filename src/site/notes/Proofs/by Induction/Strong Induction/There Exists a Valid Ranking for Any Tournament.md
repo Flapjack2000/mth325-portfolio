@@ -11,7 +11,7 @@
 * Tournaments are directed graphs
 * One directed edge between each pair of vertices
 
-#### Proof (by Induction)
+#### Proof (by Strong Induction)
 
 
 **NEEDS FINISHING**
