@@ -11,12 +11,16 @@
 * Trees are minimally connected
 #### Proof (by Induction)
 ##### Base Case
-Let $T = (V, E)$ be a tree with exactly $1$ vertex. $T$ is simply a lone vertex with no edges, thus $|E| = 0$, and the conjecture holds.
+Let $T = (V, E)$ be a tree with exactly $1$ vertex. $T$ is simply a lone vertex with no edges, thus $|E| = 0$, and the conjecture holds for $n=1$.
 
 ##### Inductive Hypothesis
 Assume any tree with $k$ vertices has exactly $k-1$ edges for some integer $k \ge 1$.
 
-##### Induction
+##### Inductive Step
+Let $T$ be a tree with $n \ge 2$ vertices. 
+
+
+
 
 
 **NEEDS FINISHING**
