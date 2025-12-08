@@ -21,9 +21,10 @@ Let $T = (V, E)$ be a tree with $n \ge 2$ vertices. Since $T$ is a tree and has 
 
 Select an arbitrary edge $e$ and remove it from $T$. Because [[Proofs/by Direct Proof/All Tree Edges Are Cut Edges\|every edge in a tree is a cut edge]], $e$ must be a cut edge, and removing it must split $T$ into two separate connected components. Both components must also be trees because they are (individually) connected and removing an edge cannot create a cycle. 
 
-Let $T_1 = (V_1, E_1)$ and $T_2 = (V_2, E_2)$ be the two connected components formed by removing the edge. Both $T_1$ and $T_2$ must contain one of the vertices formerly incident to $e$. 
+Let $T_1 = (V_1, E_1)$ and $T_2 = (V_2, E_2)$ be the two connected components formed by removing the edge, and let $n_1$ and $n_2$ be the number of vertices in $T_1$ and $T_2$, respectively. Because only an edge was removed and no vertices were removed, $n_1 + n_2 = n$.
 
+Both $T_1$ and $T_2$ must contain one of the vertices formerly incident to $e$. Thus, $n_1, n_2 \ge 1$. 
 
-
+Because $n_1,n_2 \lt n$, and both $T_1$ and $T_2$ are trees, the inductive hypothesis can be applied to $T_1$ and $T_2$. Therefore, $T_1$ has $n_1-1$ edges and $T_2$ has $n_2-1$ edges, and 
 
 **NEEDS FINISHING**
