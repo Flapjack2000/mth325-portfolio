@@ -29,9 +29,6 @@ Because $n_1,n_2 \lt n$, and both $T_1$ and $T_2$ are trees, the inductive hypot
 
 Originally, the number of edges in $T$ was the sum of the edges in $T_1$ and the edges in $T_2$ plus one for the edge $e$.
 
-$$|E| = |E_1| + |E_2| + 1 = (n_1 - 1) + (n_2 - 1) = n_1 + n_2 = n-1$$
+$$|E| = |E_1| + |E_2| + 1 = (n_1 - 1) + (n_2 - 1) = n_1 + n_2 - 1 = n-1$$
 
-
-
-
-**NEEDS FINISHING**
+Therefore, $T$ has exactly $n-1$ edges, and the conjecture is proven.
