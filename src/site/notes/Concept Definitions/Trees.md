@@ -15,6 +15,13 @@ A graph $T = (V, E)$ is a tree if and only if, for any distinct vertices $u, v \
 	</figure>
 </div>
 
+<div style="display:flex; justify-content:center;">
+	<figure style="width:50%; text-align:center">
+	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/forest.png?raw=true" >
+	  <figcaption><i>A forest.</i></figcaption>
+	</figure>
+</div>
+
 #### Rooted Trees
 A *rooted tree* is a tree, $T$, with a designated vertex, $r$, called the root. 
 
@@ -32,7 +39,7 @@ If two vertices share the same parent, then they are called siblings.
 </div>
 
 #### Binary Trees
-A *binary tree* is a rooted tree
+A *binary tree* is a rooted tree for which every vertex has at most $2$ children.
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/binary-tree.png?raw=true" >
