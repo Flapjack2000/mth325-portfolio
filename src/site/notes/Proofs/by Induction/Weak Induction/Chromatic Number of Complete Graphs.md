@@ -4,9 +4,11 @@
 
 #### Conjecture
 >For every integer $n \ge 1$, the chromatic number $X(K_n)$ of the complete graph $K_n$ is exactly $n$.
+
 #### Initial Thoughts
 * In a complete graph, every vertex is adjacent to every other vertex.
 * If you add a vertex to a complete graph, it must use a new color because it is adjacent to every other vertex.
+
 #### Proof (by Weak Induction)
 ##### Base Case
 The complete graph $K_1$ has only one vertex, so it requires only one color. Thus, $X(K_1) = 1$, and the conjecture holds true.

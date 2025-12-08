@@ -6,9 +6,11 @@
 >Conjecture 10 from [[Proofs/Dr. Wells' List of Conjectures\|Dr. Wells' List of Conjectures]]
 
 >In any tree $T$, for any vertices $u$ and $v$, there is exactly one path from $u$ to $v$.
+
 #### Initial Thoughts
 * Trees are acyclic and connected graphs
 * I already proved that if there are at least two distinct paths between two vertices, then there is a cycle
+
 #### Proof (by Contradiction)
 Assume for the sake of contradiction that there exists a tree $T = (V, E)$ and vertices $u, v \in V$, such that if $p$ is the number of paths from $u$ to $v$, then ${p \in {\mathbb N}} \land {p \ne 1}$. That is,  ${p = 0} \lor {p \ge 2}$. 
 
