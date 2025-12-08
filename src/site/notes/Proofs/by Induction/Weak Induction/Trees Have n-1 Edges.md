@@ -17,7 +17,8 @@ Let $T = (V, E)$ be a tree with exactly $1$ vertex. $T$ is simply a lone vertex 
 Assume any tree with $k$ vertices has exactly $k-1$ edges for some integer $k \ge 1$.
 
 ##### Inductive Step
-Let $T$ be a tree with $n \ge 2$ vertices. 
+Let $T$ be a tree with $n \ge 2$ vertices. Since $T$ is a tree and has at least two vertices, it is connected and its edge set must contain at least one vertex.
+
 
 
 

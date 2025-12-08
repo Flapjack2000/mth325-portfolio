@@ -18,7 +18,7 @@
     
 8. For any graph $G$, if $\delta(G) \geq 2$ (all the vertices have degree at least 2), then $G$ contains a cycle.
     
-9. If $T$ is a tree with $n$ vertices, then $T$ has $n - 1$ edges.
+9. If $T$ is a tree with $n$ vertices, then $T$ has $n - 1$ edges. [[Proofs/by Induction/Weak Induction/Trees Have n-1 Edges\|Trees Have n-1 Edges]]
     
 10. In any tree $T$, for any vertices $u$ and $v$, there is exactly one path from $u$ to $v$. [[Proofs/by Contradiction/Exactly One Path Between Any Two Vertices in a Tree\|Jump to Proof]]
     
