@@ -25,6 +25,13 @@ Let $T_1 = (V_1, E_1)$ and $T_2 = (V_2, E_2)$ be the two connected components fo
 
 Both $T_1$ and $T_2$ must contain one of the vertices formerly incident to $e$. Thus, $n_1, n_2 \ge 1$. 
 
-Because $n_1,n_2 \lt n$, and both $T_1$ and $T_2$ are trees, the inductive hypothesis can be applied to $T_1$ and $T_2$. Therefore, $T_1$ has $n_1-1$ edges and $T_2$ has $n_2-1$ edges, and 
+Because $n_1,n_2 \lt n$, and both $T_1$ and $T_2$ are trees, the inductive hypothesis can be applied to $T_1$ and $T_2$. Therefore, $T_1$ has $n_1-1$ edges and $T_2$ has $n_2-1$ edges.
+
+Originally, the number of edges in $T$ was the sum of the edges in $T_1$ and the edges in $T_2$ plus one for the edge $e$.
+
+$$|E| = |E_1| + |E_2| + 1 = (n_1 - 1) + (n_2 - 1) = n_1 + n_2 = n-1$$
+
+
+
 
 **NEEDS FINISHING**
