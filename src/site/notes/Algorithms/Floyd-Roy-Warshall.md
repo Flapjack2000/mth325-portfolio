@@ -17,16 +17,9 @@ def floyd_roy_warshall(adj_matrix:list[list[int|float]]):
     for i in range(num_vertices):
         for j in range(num_vertices):
             for k in range(num_vertices):
-				
                 # Check if a shorter path is found
                 if distances[k][i] != infinity and distances[i][j] != infinity:
-                    distances[k][j] = min(distances[k][j], distances[k][i] + distances[i][j])
-
+	                path = min(distances[k][j], distances[k][i] + distances[i][j])
+                    distances[k][j] = path
     return distances
 ```
-
-
-
-
-**NEEDS FINISHING**
-
