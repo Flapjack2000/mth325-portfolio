@@ -16,7 +16,7 @@ The approach goes as follows:
 
 Note: If the graph is disconnected, the algorithm will create a minimum spanning forest instead.
 
-#### Python Interpretation
+#### Python Interpretation:
 ```python
 class Edge:
 	def __init__(self, v1, v2, weight):

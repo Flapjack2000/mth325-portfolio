@@ -14,7 +14,7 @@ The approach goes as follows:
 		* For each vertex $j$:
 			* Update the path from $k$ to $j$ if the path from $k$ to $j$ through $i$ is shorter than the current distance from $k$ to $j$.
 
-#### Python Interpretation
+#### Python Interpretation:
 ```python
 def floyd_roy_warshall(adj_matrix:list[list[int|float]]):
     infinity = float('inf')

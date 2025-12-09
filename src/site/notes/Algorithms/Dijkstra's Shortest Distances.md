@@ -16,7 +16,7 @@ The approach goes as follows:
 	1. Every vertex has been visited. (Shortest distances have been found successfully.)
 	2. The smallest distance of the remaining unvisited vertices is $\infty$. (There is no path from the source vertex to any of the remaining unvisited vertices.)
 
-#### Python Interpretation
+#### Python Interpretation:
 ```python
 def dijkstra(graph: list[list[int]], source: int):
     # Count number of nodes in the graph

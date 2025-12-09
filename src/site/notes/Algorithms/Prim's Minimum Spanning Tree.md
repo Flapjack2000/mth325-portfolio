@@ -16,6 +16,7 @@ The approach goes as follows:
 	1. The MST contains all of the vertices in the graph. (The MST is complete.)
 	2. The smallest weight of the remaining unvisited vertices is $\infty$. (The graph is not connected, so no MST is possible.)
 
+#### Python Interpretation:
 ```python
 class Edge:
     def __init__(self, v1, v2, weight):

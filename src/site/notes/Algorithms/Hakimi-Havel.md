@@ -13,7 +13,7 @@ The approach goes as follows:
 	1. All of the remaining elements are equal to $0$. (A simple graph exists.)
 	2. There are not enough remaining elements to subtract from in step $2$. (No simple graph exists.)
 	3. One or more of the remaining elements is less than $0$. (No simple graph exists.)
-#### Python Interpretation
+#### Python Interpretation:
 ```python
 def hakimi_havel(degree_sequence):
 	

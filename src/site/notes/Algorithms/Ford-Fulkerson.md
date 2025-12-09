@@ -17,7 +17,7 @@ The approach goes as follows:
 		4. Add it to the total flow.
 4. Repeat step 3 until no augmenting path exists. Return the total flow.
 
-
+#### Python Interpretation:
 ```python
 def ford_fulkerson(capacity_matrix, source_node, sink_node):
     num_vertices = len(capacity_matrix)

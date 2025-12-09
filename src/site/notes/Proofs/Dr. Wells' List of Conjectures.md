@@ -28,7 +28,7 @@
     
 13. Let $G$ be a graph with $n$ vertices. If $G$ is connected, then $G$ has at least $n - 1$ edges.
     
-14. Let $G$ be a graph with $n$ vertices. If $G$ is connected and has $n - 1$ edges, then $G$ is a tree. [[Proofs/by Contrapositive/Connected Graphs with Minimal Edges Are Trees\|Jump to Proof]]
+14. Let $G$ be a graph with $n$ vertices. If $G$ is connected and has $n - 1$ edges, then $G$ is a tree. [[Connected Graphs with Minimal Edges Are Trees\|Jump to Proof]]
     
 15. Let $G$ be a graph with $n$ vertices. If $G$ has no cycles and has $n - 1$ edges, then $G$ is a tree.
     
