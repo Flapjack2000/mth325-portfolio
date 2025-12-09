@@ -13,7 +13,7 @@
 
 #### Proof (by Strong Induction)
 ##### Base Case
-Let $T = (V, E)$ be a tree with exactly $1$ vertex. $T$ is simply a lone vertex with no edges, thus $|E| = 0$, and the conjecture holds for $n=1$.
+Let $T = (V, E)$ be a tree with exactly $1$ vertex. $T$ is simply a lone vertex with no edges, thus $|V| = 1$, $|E| = 0$, $|E|  = |V|-1$, and the conjecture holds for $n=1$.
 ##### Inductive Hypothesis
 Assume any tree with $k$ vertices has exactly $k-1$ edges for some integer $k \ge 1$.
 ##### Inductive Step
@@ -25,10 +25,10 @@ Let $T_1 = (V_1, E_1)$ and $T_2 = (V_2, E_2)$ be the two connected components fo
 
 Both $T_1$ and $T_2$ must contain one of the vertices formerly incident to $e$. Thus, $n_1, n_2 \ge 1$. 
 
-Because $n_1,n_2 \lt n$, and both $T_1$ and $T_2$ are trees, the inductive hypothesis can be applied to $T_1$ and $T_2$. Therefore, $T_1$ has $n_1-1$ edges and $T_2$ has $n_2-1$ edges.
+Because $n_1,n_2 \lt n$ and both $T_1$ and $T_2$ are trees, the inductive hypothesis can be applied to $T_1$ and $T_2$. Therefore, $T_1$ has $n_1-1$ edges and $T_2$ has $n_2-1$ edges.
 
 Originally, the number of edges in $T$ was the sum of the number of edges in $T_1$ and the number of edges in $T_2$, plus one for the edge $e$.
 
-$$|E| = |E_1| + |E_2| + 1 = (n_1 - 1) + (n_2 - 1) = n_1 + n_2 - 1 = n-1$$
+$$|E| = |E_1| + |E_2| + 1 = (n_1 - 1) + (n_2 - 1) + 1 = n_1 + n_2 - 1 = n-1$$
 
 Therefore, $T$ has exactly $n-1$ edges.

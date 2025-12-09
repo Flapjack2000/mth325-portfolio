@@ -12,10 +12,8 @@
 #### Proof (by Weak Induction)
 ##### Base Case
 The complete graph $K_1$ has only one vertex, so it requires only one color. Thus, $X(K_1) = 1$, and the conjecture holds true.
-
 ##### Inductive Hypothesis
 Assume that for some integer $k \ge 1$, the chromatic number of the complete graph $K_k$ is $k$. Each vertex in $K_k$ has a unique color assigned to it.
-
 ##### Inductive Step
 The complete graph $K_{k+1}$ can be created by adding a vertex to $K_k$ and creating an edge between that vertex and every other vertex.
 
