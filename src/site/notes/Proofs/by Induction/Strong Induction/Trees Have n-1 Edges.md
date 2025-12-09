@@ -31,4 +31,4 @@ Originally, the number of edges in $T$ was the sum of the number of edges in $T_
 
 $$|E| = |E_1| + |E_2| + 1 = (n_1 - 1) + (n_2 - 1) = n_1 + n_2 - 1 = n-1$$
 
-Therefore, $T$ has exactly $n-1$ edges, and the conjecture is proven.
+Therefore, $T$ has exactly $n-1$ edges.

@@ -4,7 +4,7 @@
 
 >The Hakimi-Havel algorithm checks if there exists a simple graph that corresponds to a given degree sequence.
 >
->Time Complexity:
+>Time Complexity: $O(|V|^2 \cdot log(|V|))$
 
 The approach goes as follows:
 1. Sort the degree sequence in non-increasing order.
