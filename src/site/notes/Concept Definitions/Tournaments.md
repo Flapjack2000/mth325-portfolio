@@ -18,7 +18,7 @@ There may be multiple valid rankings for a given tournament. It is also possible
 
 A valid ranking for $T$, shown below, is $A, D, B, E, C$. Two more valid rankings are $A, C, D, B, E$ and $A, E, D, B, C$.
 
-Note that because $deg^-(A) = 0$, no other vertex can come before $A$ in any valid ranking.
+Note that because $deg^-(A) = 0$, no other vertex can come before $A$ in any valid ranking. If there were another vertex $F$, such that $v \to F$ for any vertex $v \in T$, then 
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	<img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/tournament.png?raw=true" >

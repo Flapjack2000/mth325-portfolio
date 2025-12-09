@@ -18,7 +18,8 @@ A graph $T = (V, E)$ is a tree if and only if, for any distinct vertices $u, v \
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/forest.png?raw=true" >
-	  <figcaption><i>A forest.</i></figcaption>
+	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/forest(1).png?raw=true" >
+	  <figcaption><i>Two forests.</i></figcaption>
 	</figure>
 </div>
 
@@ -31,10 +32,12 @@ Any vertex with an edge pointing toward a particular vertex is the parent of tha
 
 If two vertices share the same parent, then they are called siblings.
 
+In $R$, the rooted tree shown below, the vertex $C$ has three children, namely $H$, $I$, and $J$. The vertex $A$ is the root of $R$ and is an *ancestor* of all other vertices in the tree because there is a path from $A$ to any other vertex in the tree and $A$ has a lower distance from the root than any other vertex (a distance of $0$ to be exact). The vertex $F$ is a *descendent* of the vertices $D$, $B$, and $A$ because there is a path from those vertices to $F$ and $F$ has a higher distance from the root of the tree than those vertices.
+
 <div style="display:flex; justify-content:center;">
 	<figure style="width:50%; text-align:center">
 	  <img style="border-radius:5%;" src="https://github.com/Flapjack2000/mth325-portfolio/blob/main/src/site/Images/rooted-tree.png?raw=true" >
-	  <figcaption><i>A rooted tree.</i></figcaption>
+	  <figcaption><i>A rooted tree, R.</i></figcaption>
 	</figure>
 </div>
 
