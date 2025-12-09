@@ -49,3 +49,6 @@ A weak partial order can simply be called a partial order.
 #### Closures of Relations
 A closure of a relation is the smallest added set of ordered pairs required to fulfill a specific property, such as transitivity or symmetry.
 
+For example, to form symmetric closure on a directed graph $G=(V, E)$, one would add the reverse of every existing edge to the graph's edge set. That is, the new set of edges for the symmetric closure of $G$ is $E \cup \{(v, u)\ |\ (u, v) \in E\}$.
+
+Perhaps the vertices of the directed graph denote users on LinkedIn and a directed edge from a vertex $u$ to another vertex $v$ indicates that $u$ is a connection of $v$$. On LinkedIn, connections are two-way, so the relation is symmetric.
