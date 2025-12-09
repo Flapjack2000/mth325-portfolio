@@ -12,7 +12,7 @@ For undirected graphs, the matrix is symmetric because an edge connects its inci
 
 For the adjacency matrix $A$ of any directed graph $G$, the transpose of $A$, $A^T$, is the adjacency matrix obtained by reversing the direction of every edge in $G$.
 
-For unweighted graphs, the entries are either $0$ or $1$ to represent the absense or presence of an edge. For weighted graphs, the entries are the edges' weights with a special value (such as $0$ or $\infty$) to denote no connection between vertices.
+For unweighted graphs, the entries are either $0$ or $1$ to represent the absence or presence of an edge. For weighted graphs, the entries are the edges' weights with a special value (such as $0$ or $\infty$) to denote no connection between vertices.
 
 ###### Undirected & Unweighted
 <div style="display:flex; justify-content:center;">
