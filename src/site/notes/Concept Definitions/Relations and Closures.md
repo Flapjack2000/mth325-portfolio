@@ -36,17 +36,16 @@ Example:
 * "is greater than"
 * If $a > b$ and $b > c$, then $a > c$.
 
-#### Closures of Relations
-
-
-
+A relation on a set is *antitransitive* if whenever an element is related to a second element and the second element is related to a third element, then the first element cannot be related to the third element.
+Example:
+* "is the mother of"
+* If Jeanette is the mother of Joanna, and Joanna is the mother of Zach, then Jeanette is not the mother of Zach.
 #### Equivalence Relations
-
-
+An *equivalence relation* is a relation that is reflexive, symmetric, and transitive.
 #### Partial Orders
+A *weak partial order* is a relation that is reflexive, antisymmetric, and transitive.
+A *strong partial order* is a relation that is irreflexive, antisymmetric, and transitive.
+A weak partial order can simply be called a partial order.
+#### Closures of Relations
+A closure of a relation is the smallest added set of ordered pairs required to fulfill a specific property, such as transitivity or symmetry.
 
-
-
-
-
-**NEEDS FINISHING**
