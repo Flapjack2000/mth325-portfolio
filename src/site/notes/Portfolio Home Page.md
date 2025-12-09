@@ -10,9 +10,6 @@
 	<i>Dr. Clark Wells</i>
 </div>
 
-
-> CHECK HOMEPAGE HAS EVERYTHING AND IMAGES ARE ON GITHUB AND EVERY PROOF IS DONE
-
 ## Goals
 >**1. To be able to use the concepts I learn in this course in my other courses.**
 >The topics I've learned about in this course have been applicable in CIS 263 (Data Structures & Algorithms) and CIS 241 (System Level Programming and Utilities). 
