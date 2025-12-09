@@ -63,8 +63,7 @@
 	* [[Proofs/by Direct Proof/All Tree Edges Are Cut Edges\|All Tree Edges Are Cut Edges]]
 	* [[Proofs/by Direct Proof/Two Distinct Paths Between Two Vertices Imply a Cycle\|Two Distinct Paths Between Two Vertices Imply a Cycle]]
 	* [[Proofs/by Direct Proof/Trees With At Least Two Vertices Have Leaves\|Trees With At Least Two Vertices Have Leaves]]
-* by Induction
-	* Weak Induction
-		* [[Proofs/by Induction/Weak Induction/Chromatic Number of Complete Graphs\|Chromatic Number of Complete Graphs]]
-	* Strong Induction
-		* [[Proofs/by Induction/Strong Induction/Trees Have n-1 Edges\|Trees Have n-1 Edges]]
+* by Weak Induction
+	* [[Proofs/by Induction/Weak Induction/Chromatic Number of Complete Graphs\|Chromatic Number of Complete Graphs]]
+* by Strong Induction
+	* [[Proofs/by Induction/Strong Induction/Trees Have n-1 Edges\|Trees Have n-1 Edges]]
