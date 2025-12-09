@@ -3,7 +3,9 @@
 ---
 
 
-Like Kruskal's algorithm, Prim's algorithm finds a minimum spanning tree (MST) of a given weighted, connected, undirected graph. Prim's algorithm is also a greedy algorithm.
+>Like Kruskal's algorithm, Prim's algorithm finds a minimum spanning tree (MST) of a given weighted, connected, undirected graph. Prim's algorithm is also a greedy algorithm.
+>
+>Time Complexity: $O(n^2)$
 
 The approach goes as follows:
 1. Choose an arbitrary current vertex. Set it's edge weight to $0$, and set all others to $\infty$.

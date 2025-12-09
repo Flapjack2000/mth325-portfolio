@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/algorithms/dijkstra-s-shortest-distances/"}
 ---
 
-Dijkstra's algorithm finds the shortest distances from a source node to the other nodes in the graph.
+>Dijkstra's algorithm finds the shortest distances from a source node to the other nodes in the graph.
+>
+>Time Complexity: $O(n^2)$
 
 The approach goes as follows:
 1. Initialize the distance from the source vertex to itself as $0$. All other distances should be set to $\infty$.

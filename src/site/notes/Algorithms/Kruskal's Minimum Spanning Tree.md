@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/algorithms/kruskal-s-minimum-spanning-tree/"}
 ---
 
-Kruskal's algorithm finds a minimum spanning tree of a given weighted, connected, undirected graph. The algorithm is a greedy algorithm.
+>Kruskal's algorithm finds a minimum spanning tree of a given weighted, connected, undirected graph. The algorithm is a greedy algorithm.
+>
+>Time Complexity: $O(|E| \cdot log (|V|))$
 
 The approach goes as follows:
 1. Sort all edges in the graph by weight in non-decreasing order.

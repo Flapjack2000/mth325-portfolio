@@ -2,7 +2,9 @@
 {"dg-publish":true,"permalink":"/algorithms/hakimi-havel/"}
 ---
 
-The Hakimi-Havel algorithm checks if there exists a simple graph that corresponds to a given degree sequence.
+>The Hakimi-Havel algorithm checks if there exists a simple graph that corresponds to a given degree sequence.
+>
+>Time Complexity:
 
 The approach goes as follows:
 1. Sort the degree sequence in non-increasing order.
