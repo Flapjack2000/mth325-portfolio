@@ -3,7 +3,7 @@
 ---
 
 
-The Ford-Fulkerson method is a greedy algorithm that finds the maximum flow in a network.
+>The Ford-Fulkerson method is a greedy algorithm that finds the maximum flow in a network.
 
 The approach goes as follows:
 1. Start with a flow of $0$.

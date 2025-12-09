@@ -22,11 +22,5 @@ If $G$ is not a tree and is not connected, then the contrapositive holds.
 Suppose $G$ is not a tree but is connected. Because trees are connected and acyclic and $G$ is a connected non-tree, $G$ must contain a cycle. Let $C$ be a cycle in $G$, and let $e$ be an arbitrary edge in $C$. 
 
 
-
-
-
-
-
-
 **NEEDS FINISHING**
 
