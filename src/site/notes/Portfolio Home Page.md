@@ -60,6 +60,7 @@
 	* [[Proofs/by Contradiction/Exactly One Path Between Any Two Vertices in a Tree\|Exactly One Path Between Any Two Vertices in a Tree]]
 * by Contrapositive
 	* [[Proofs/by Contrapositive/Connected Graphs with Minimal Edges Are Trees\|Connected Graphs with Minimal Edges Are Trees]]
+	* [[Proofs/by Contrapositive/If An Edge Is The Only Path Between Its Endpoints, It's A Cut Edge\|If An Edge Is The Only Path Between Its Endpoints, It's A Cut Edge]]
 * by Direct Proof
 	* [[Proofs/by Direct Proof/All Tree Edges Are Cut Edges\|All Tree Edges Are Cut Edges]]
 	* [[Proofs/by Direct Proof/Two Distinct Paths Between Two Vertices Imply a Cycle\|Two Distinct Paths Between Two Vertices Imply a Cycle]]
