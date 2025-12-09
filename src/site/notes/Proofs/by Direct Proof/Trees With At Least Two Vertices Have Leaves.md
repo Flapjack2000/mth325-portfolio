@@ -9,7 +9,7 @@
 
 #### Initial Thoughts
 * Leaves are vertices with degree 1
-* Trees are connected and acylic graphs
+* Trees are connected and acyclic graphs
 * Vertices in trees must have one path between them
 #### Proof (by Direct Proof)
 Let $T  = (V, E)$ be a tree with $n = |V| \ge 2$ vertices. 
