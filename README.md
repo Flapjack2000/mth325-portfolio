@@ -1,9 +1,3 @@
-# Digital Obsidian Garden
-This is the template to be used together with the [Digital Garden Obsidian Plugin](https://github.com/oleeskild/Obsidian-Digital-Garden). 
-See the README in the plugin repo for information on how to set it up.
+# MTH 325 Portfolio
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/oleeskild/digitalgarden)
-
----
-## Docs
-Docs are available at [dg-docs.ole.dev](https://dg-docs.ole.dev/)
+This is my final portfolio for Dr. Clark Wells' MTH 325 course, consisting of definitions and examples of concepts from the course, as well as algorithms coded in Python and graph theory conjectures proven with multiple methods of proof.
